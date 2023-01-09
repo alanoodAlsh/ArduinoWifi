@@ -8,6 +8,8 @@ https://ielectrony.com/shop/esp8266-wifi-module/
 well documented tutorial:
 https://www.hackster.io/pulasthi-Narada/connecting-esp8266-to-firebase-to-send-receive-data-4adf66
 
+you need to download the libriraies mentioned, and use the exact versions dont use newer ones.
+
 pins of the ESP2866-01S
 https://www.instructables.com/How-to-use-the-ESP8266-01-pins/
 
